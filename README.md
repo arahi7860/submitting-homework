@@ -5,7 +5,7 @@
 1. Click on the fork button in the top right corner
     ![GitHub fork button](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
     1. This will take a second (but will give you a nice loading screen)
-    2. Once the repo is forked, notice that you have a new repo under your account, forked from sei-nyc-mandalorians/github-fork
+    2. Once the repo is forked, notice that you have a new repo under your account, forked from sei-nyc-neptune/github-fork
 2. Click the **clone or download** button and copy the clone URL for **your repo**
     ![GitHub clone or download button](https://help.github.com/assets/images/help/repository/clone-repo-clone-url-button.png)
 3. Run the command: `git clone URL` -- a new copy of the repo will be created in your current working directory.
