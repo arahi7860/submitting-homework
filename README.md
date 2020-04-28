@@ -100,23 +100,18 @@ Now that you have pushed new changes to your forked repo, you can create a pull 
 
 <br>
    
-4. Click **Create pull request**
+3. Click **Create pull request**
 
    ![GitHub clone or download button](/img/pr3.png)
 
 <br>
 
-1. Enter a title and description of the changes proposed for your pull request
+4. Enter your name for the title and add a description
        
-
-
-    * For the purposes of this class we will make one big pull request with an entire assignment and the comment will be used to report how the assignment went rather than the contents of the pull request
-    
-   
     * In the description, include:
-       * a level of **confidence** between 0 and 5 (required)
-       * a degree of **completion** between 0 and 3 (required)
-       * a **comment** noting any questions, challenges or lines where specific feedback is requested (if completion if below 3, comment is required)
+       * a degree of **completeness** between 0 and 3 (required)
+       * a level of **comfort level** between 0 and 5 (required)
+       * **comments** : win, struggle, questions, comments
 
     [see homework template](SAMPLE_HW_TEMPLATE.md)
 
@@ -124,11 +119,11 @@ Now that you have pushed new changes to your forked repo, you can create a pull 
 
 <br>
 
-1. Click **Create pull request**
+5. Click **Create pull request**
 
 <br>
 
-3. Check that the original repo has a new pull request from you
+6. Check that the original repo has a new pull request from you
 
 
 <br>
