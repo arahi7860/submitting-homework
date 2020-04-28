@@ -40,19 +40,25 @@
    ```bash
     code .
     ```
+<br>
 
-<details><summary>check your remote</summary>
+6. Check your remote. 
+    ```bash
+    git remote -v
+    ```
+    If you forked correctly your remote should look like this
 
-```bash
-git remote -v
-```
+    ```
+    origin	https://git.generalassemb.ly/your-username/name-of-the-repo.git (fetch)
+    origin	https://git.generalassemb.ly/your-username/name-of-the-repo.git     (push)
+    ```
 
-If you forked correctly your remote should look like this
 
-```
-origin	https://git.generalassemb.ly/your-username/name-of-the-repo.git (fetch)
-origin	https://git.generalassemb.ly/your-username/name-of-the-repo.git (push)
-```
+<details><summary>If you didn't fork correctly</summary>
+
+
+
+
 
 ### If you didn't fork correctly, follow these steps.
 
@@ -69,7 +75,7 @@ For more information, click [here](https://help.github.com/en/articles/changing-
 
 <br>
 
-6. Add, commit, and push your changes
+7. Add, commit, and push your changes
     ```
     git add .
     git commit -m "fixed the navbar"
@@ -77,7 +83,7 @@ For more information, click [here](https://help.github.com/en/articles/changing-
     ```
 <br>
 
-7.  Confirm the remote is up to date by either using `git status`, or by checking on GitHub that the remote and local histories are the same.
+8.  Confirm the remote is up to date by either using `git status`, or by checking on GitHub that the remote and local histories are the same.
 
 
 <hr>
