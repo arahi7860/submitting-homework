@@ -53,6 +53,7 @@
     origin	https://git.generalassemb.ly/your-username/name-of-the-repo.git (push)
     ```
 
+<br>
 
 <details><summary>If you didn't fork correctly</summary>
 
@@ -117,11 +118,13 @@ Now that you have pushed new changes to your forked repo, you can create a pull 
        * a degree of **completion** between 0 and 3 (required)
        * a **comment** noting any questions, challenges or lines where specific feedback is requested (if completion if below 3, comment is required)
 
+    [see homework template](SAMPLE_HW_TEMPLATE.md)
+
      ![GitHub clone or download button](/img/comment.png)
 
 <br>
 
-2. Click **Create pull request**
+1. Click **Create pull request**
 
 <br>
 
