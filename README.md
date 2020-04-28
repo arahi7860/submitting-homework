@@ -24,7 +24,7 @@
 3. Run the command: `git clone URL` -- a new copy of the repo will be created in your current working directory.
 
     ```bash
-    git clone https://git.generalassemb.ly/mickmed/name-of-the-repo.git
+    git clone https://git.generalassemb.ly/your-account-name/name-of-the-repo.git
     ```
 
 <br>
@@ -49,8 +49,8 @@
     If you forked correctly your remote should look like this
 
     ```
-    origin	https://git.generalassemb.ly/your-username/name-of-the-repo.git (fetch)
-    origin	https://git.generalassemb.ly/your-username/name-of-the-repo.git (push)
+    origin	https://git.generalassemb.ly/your-account-name/name-of-the-repo.git (fetch)
+    origin	https://git.generalassemb.ly/your-account-name/name-of-the-repo.git (push)
     ```
 
 <br>
