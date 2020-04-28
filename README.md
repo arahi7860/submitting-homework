@@ -50,15 +50,11 @@
 
     ```
     origin	https://git.generalassemb.ly/your-username/name-of-the-repo.git (fetch)
-    origin	https://git.generalassemb.ly/your-username/name-of-the-repo.git     (push)
+    origin	https://git.generalassemb.ly/your-username/name-of-the-repo.git (push)
     ```
 
 
 <details><summary>If you didn't fork correctly</summary>
-
-
-
-
 
 ### If you didn't fork correctly, follow these steps.
 
@@ -83,7 +79,7 @@ For more information, click [here](https://help.github.com/en/articles/changing-
     ```
 <br>
 
-8.  Confirm the remote is up to date by either using `git status`, or by checking on GitHub that the remote and local histories are the same.
+8.  Confirm the remote is up to date by either using `git status` or by checking on GitHub that the remote and local histories are the same.
 
 
 <hr>
@@ -101,17 +97,15 @@ Now that you have pushed new changes to your forked repo, you can create a pull 
 
 2. On the compare page you select the repo/branch to and from which you're making the pull request
 
-    ![GitHub clone or download button](/img/compare.png)
-
 <br>
-
-3. Review your proposed change
    
-4. Click **create pull request**
+4. Click **Create pull request**
+
+   ![GitHub clone or download button](/img/pr3.png)
 
 <br>
 
-5. Enter a title and description of the changes proposed for your pull request
+1. Enter a title and description of the changes proposed for your pull request
        
 
 
@@ -123,10 +117,15 @@ Now that you have pushed new changes to your forked repo, you can create a pull 
        * a degree of **completion** between 0 and 3 (required)
        * a **comment** noting any questions, challenges or lines where specific feedback is requested (if completion if below 3, comment is required)
 
+     ![GitHub clone or download button](/img/comment.png)
 
-6. Click 'Create pull request'
+<br>
 
-7. Check that the original repo has a new pull request from you
+2. Click **Create pull request**
+
+<br>
+
+3. Check that the original repo has a new pull request from you
 
 
 <br>
