@@ -17,7 +17,7 @@
 
 2. Click the **clone or download** button and copy the clone URL for **your repo**
 
-    ![GitHub clone or download button](https://help.github.com/assets/images/help/repository/clone-repo-clone-url-button.png)
+    ![GitHub clone or download button](img/git_clone.png)
 
 <br>
 
@@ -143,8 +143,3 @@ Nice work! Take a moment to think about this flow because we'll be using it thro
 - [GitHub Guides: Forking](https://guides.github.com/activities/forking/)
 - [GitHub Bootcamp: Fork a Repo](https://help.github.com/articles/fork-a-repo/)
 - [GitHub: About Pull Requests](https://help.github.com/articles/about-pull-requests/)
-
-
-
-//comment
-//more comments more stuff here
