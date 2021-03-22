@@ -32,7 +32,7 @@
 4. `cd` into the cloned repository
 
     ```bash
-    cd submitting-homework
+    cd name-of-directory
     ```
 <br>
 
