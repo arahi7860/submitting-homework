@@ -143,3 +143,5 @@ Nice work! Take a moment to think about this flow because we'll be using it thro
 - [GitHub Guides: Forking](https://guides.github.com/activities/forking/)
 - [GitHub Bootcamp: Fork a Repo](https://help.github.com/articles/fork-a-repo/)
 - [GitHub: About Pull Requests](https://help.github.com/articles/about-pull-requests/)
+- [Interactive Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
+- [What makes a great commit message?](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
